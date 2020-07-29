@@ -23,7 +23,7 @@ echo "<!DOCTYPE html>
         <style type=\"text/css\">
             
             body {
-                background-image: url(\"skull.jpg\");
+                background-image: url(\"Bull Wallpapers - Wallpaper Cave - Internet Explorer 07.10_edited.jpg\");
                 background-size: 1000px 1600px;
                 background-repeat: no-repeat;
             }
