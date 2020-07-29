@@ -20,4 +20,4 @@ and set the # to the 32bit "xterm -e ./ngrok http 80 & clear". Then press "esc" 
 <br>
 Then Copy The https link and paste it into the other window.
 <br>
-when someone open the link you will get on one window coordinates. Just tip them in google maps and u have the location.
+when someone open the link you will get on one window coordinates. Just tap them in google maps and u have the location.
