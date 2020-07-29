@@ -11,7 +11,7 @@ cd TrackUrl
 <br>
 vm TrackUrl.sh
 <br>
-go and delete the # infornt of the 64bit "xterm -e ./ngrok http 80 & clear",
+go and delete the # infront of the 64bit "xterm -e ./ngrok http 80 & clear",
 
 and set the # to the 32bit "xterm -e ./ngrok http 80 & clear". Then press "esc" and tap
 
