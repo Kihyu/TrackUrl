@@ -9,7 +9,7 @@ chmod -R 755 TrackUrl
 <br>
 cd TrackUrl
 <br>
-vm TrackUrl.sh
+vim TrackUrl.sh
 <br>
 go and delete the # infront of the 64bit "xterm -e ./ngrok http 80 & clear",
 
