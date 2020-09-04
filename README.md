@@ -5,6 +5,8 @@ Phone Tracking with "ngrok.io"
 <p></p>
 <master> git clone https://github.com/Kihyu/TrackUrl.git
 <br>
+cd TrackUrl
+<br>
 ./TrackUrl.sh
 <br>
 Then Copy The https link and paste it into the other window.
