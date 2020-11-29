@@ -2,7 +2,7 @@
 Phone Tracking with "ngrok.io"
 
 ## How to use
-<p></p>
+
 ```
 git clone https://github.com/Kihyu/TrackUrl.git
 cd TrackUrl
