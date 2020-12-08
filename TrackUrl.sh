@@ -23,7 +23,7 @@ echo "<!DOCTYPE html>
         <style type=\"text/css\">
             
             body {
-                background-image: url(\"Screenshot_20200814-195844_Google.jpg\");
+                background-image: url(\"Screenshot_20200814-195844_Google.jpg"\);
                 background-size: 1000px 1600px;
                 background-repeat: no-repeat;
             }
